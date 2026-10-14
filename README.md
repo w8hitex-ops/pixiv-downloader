@@ -49,19 +49,19 @@ PROXIES = {
 
 ## 🚀 使用
 
-### 按作者 ID 下载
+### 按作者 ID (123456)下载
 
 ```bash
 python main.py author 123456
 ```
 
-### 按用户收藏夹下载
+### 按用户收藏夹 ID (123456)下载
 
 ```bash
 python main.py bookmark 123456
 ```
 
-### 按作品 ID 下载
+### 按作品 ID (123456)下载
 
 ```bash
 python main.py illust 123456
