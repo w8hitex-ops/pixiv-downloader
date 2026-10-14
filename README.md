@@ -15,7 +15,7 @@
 ## 📦 安装
 
 ```bash
-git clone https://github.com/你的用户名/pixiv-downloader.git
+git clone https://github.com/w8hitex-ops/pixiv-downloader.git
 cd pixiv-downloader
 pip install -r requirements.txt
 ```
