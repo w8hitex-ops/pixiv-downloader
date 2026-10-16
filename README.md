@@ -2,8 +2,7 @@
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![stars](https://img.shields.io/github/stars/w8hitex-ops/pixiv-downloader)
 
-# Pixiv Downloader
-...
+
 # Pixiv Downloader
 
 一个简洁的 Pixiv 图片下载工具，支持三种下载模式。
